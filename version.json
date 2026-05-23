@@ -1,7 +1,7 @@
 {
-  "version": "3.1.0",
+  "version": "3.1.1",
   "releaseDate": "2026-05-23",
-  "releaseNotes": "Pierwsza wersja z auto-aktualizacją, ciemny motyw, statystyki, pasek postępu generowania.",
+  "releaseNotes": "Poprawki UI: badge v3 w headerze, ciemny motyw z pelnym odswiezeniem przy restarcie, drobne poprawki stylu.",
   "downloadUrl": "https://github.com/majcher666/docx-generator-releases/releases/latest/download/DocxGenerator.exe",
   "sha256Url": "https://github.com/majcher666/docx-generator-releases/releases/latest/download/DocxGenerator.exe.sha256"
 }
